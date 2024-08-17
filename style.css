@@ -118,6 +118,7 @@ display: flex;
 }
 
 .row img{
+    padding: 20px;
 height: auto;
 width: 50%;
 border-radius: 27px;
